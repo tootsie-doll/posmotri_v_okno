@@ -188,8 +188,7 @@ input {
     }
 
     .search-form__textfield:active{
-      border-left: 1px solid #FFF;
-      border-right: 1px solid #FFF;
+      border: none;
     }
 
     .search-form__label:has(.search-form__textfield):hover {
@@ -207,6 +206,7 @@ input {
       font-family: inherit;
       color: inherit;
     }
+
     .search-form__pseudo-checkbox {
       cursor: pointer;
       width: 18px;
