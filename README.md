@@ -4,5 +4,5 @@
 [Посмотреть верстку](https://github.com/tootsie-doll/posmotri_v_okno.git/)
 <hr>
 
-[Посетить сайт](https://tootsie-doll.github.io/posmotri_v_okno/ "Смотрим, любуемся")
+
 
