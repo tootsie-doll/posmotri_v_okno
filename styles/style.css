@@ -85,12 +85,15 @@ input {
 .button:hover{
   text-decoration: underline;
 }
+
 .button:focus {
   outline: 0;
 }
+
 .button:focus-visible {
   outline: 1px solid #fff;
 }
+
 .search-form__submit-button {
   align-self: end;
   width: 194px;
